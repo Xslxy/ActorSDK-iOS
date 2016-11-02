@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   s.dependency 'DZNWebViewController'
 
   s.dependency 'TTTAttributedLabel'
-  s.dependency 'M13ProgressSuite'
+#   s.dependency 'M13ProgressSuite'
 
   s.ios.preserve_paths = '**/*'
   s.ios.vendored_frameworks = 'ActorSDK.framework'

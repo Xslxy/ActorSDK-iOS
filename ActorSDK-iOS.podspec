@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.dependency 'VBFPopFlatButton'
   s.dependency 'MBProgressHUD'
   s.dependency 'SZTextView'
-  s.dependency 'RSKImageCropper'
+#   s.dependency 'RSKImageCropper'
   s.dependency 'JDStatusBarNotification'
   s.dependency 'YYImage'
   s.dependency 'YYImage/WebP'

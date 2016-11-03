@@ -13,8 +13,8 @@ Pod::Spec.new do |s|
   # Core
   s.dependency 'RegexKitLite'
   s.dependency 'zipzap'
-#   s.dependency 'J2ObjC-Framework'
-  s.dependency 'J2ObjC-Framework’, :git => ‘https://github.com/Xslxy/J2ObjC-Framework'
+  s.dependency 'J2ObjC-Framework'
+#   s.dependency 'J2ObjC-Framework’, :git => ‘https://github.com/Xslxy/J2ObjC-Framework'
   s.dependency 'ReachabilitySwift'
 
   # UI

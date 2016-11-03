@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   # Core
   s.dependency 'RegexKitLite'
   s.dependency 'zipzap'
-  s.dependency 'J2ObjC-Framework', :path => '~/Desktop/Actor/j2objc-1.0.2/'
+  s.dependency 'J2ObjC-Framework', :path => '~/Desktop/Actor/j2objc-1.0.2'
   s.dependency 'ReachabilitySwift'
 
   # UI

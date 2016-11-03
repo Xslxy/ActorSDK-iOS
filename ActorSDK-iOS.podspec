@@ -14,6 +14,7 @@ Pod::Spec.new do |s|
   s.dependency 'RegexKitLite'
   s.dependency 'zipzap'
 #   s.dependency 'J2ObjC-Framework'
+  s.dependency 'J2ObjC-Framework’, :path => ‘./download/'
   s.dependency 'ReachabilitySwift'
 
   # UI
